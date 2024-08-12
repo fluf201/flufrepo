@@ -4,10 +4,10 @@ Section: Download cydia
 Maintainer: fluf201 <fluf201gamed@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/cydia.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 30cfa894c4c011e66fe06e63d04437c8
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Name: Cydia installer
 Author: fluf201 <fluf201gamese@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Depiction: example.com
